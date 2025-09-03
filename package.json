@@ -1,0 +1,5 @@
+{
+  "name": "crossbook-proxy",
+  "private": true,
+  "type": "module"
+}
